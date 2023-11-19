@@ -4,22 +4,39 @@
 @use "content";
 
 html {
-	font-size: 112.5%;
+  font-size: 112.5%;
+}
+
+.logo {
+  font-size: 3.5rem;
+  line-height: 1.1;
+  font-weight: 900;
+  margin-bottom: 1rem;
 }
 
 body {
-	line-height: 1.6;
-	tab-size: 4;
-	font-weight: 400;
-	font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif;
-	background: var( --background-color );
-	color: var( --text-color );
-}	
+  font-size: 20px;
+  height: 150px;
+  line-height: 30px;
+  tab-size: 4;
+  font-weight: 400;
+  font-family: -apple-system-ui-serif, ui-serif, "Georgia", serif;
+  background: var(--background-color);
+  color: var(--text-color);
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: var(--background-color);
+    background: var(--text-color);
+  }
+}
 
 a {
-	color: hsl(188 74% 50%);
+  color: hsl(188 74% 50%);
 
-	&:hover, &:focus {
-		color: hsl(188 74% 70%);
-	}
+  &:hover,
+  &:focus {
+    color: hsl(188 74% 70%);
+  }
 }
