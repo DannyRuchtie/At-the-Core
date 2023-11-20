@@ -9,6 +9,8 @@ preview: The Invisible Genius Behind Apple's Iconic Designs. The story of Imran 
 
 The Invisible Genius Behind Apple's Iconic Designs. The story of Imran Chaudhri, a name you might not know but whose work you've definitely interacted with. Chaudhri, during his 21-year stint at Apple, played a critical role in shaping some of the most iconic products we use today.
 
+![image](/assets/iphone.jpg)
+
 Imran Chaudhri is a British-American designer with significant contributions to Apple's product design. He was born in London in 1973, making him around 50 years old as of 2023. Chaudhri joined Apple in 1995 and has been credited with influential work on the user interface and interaction designs for a range of Apple products, including the Mac, iPod, iPhone, iPad, Apple TV, Apple Watch, AirPods, and HomePod. He worked at Apple until December 2016, serving in various roles including the Director of Design. Currently, Chaudhri holds the position of chairman and president at Humane, a company he co-founde
 
 ## Early Career and Joining Apple
@@ -18,11 +20,12 @@ Picture this: it's 1995, and a young intern named Imran Chaudhri walks into Appl
 
 
 
-
 ## The iPhone
 Fast forward to the era of the first iPhone. Imran wasn't just in the room; he was at the heart of the design team. Imagine the iPhone's home screen – those neat squares you tap on every day? That's Chaudhri's brainchild. But there's more to this story than just aesthetics.
 
 Chaudhri's work on touch screens is where things get really interesting. This wasn't just about making screens responsive; it was about creating a connection between the user and the device. That seamless interaction you feel when you swipe through your phone? Thank Chaudhri for that.
+
+![image](/assets/springboard.jpg)
 
 Chaudhri was a firm believer in the potential of multitouch technology, envisioning a future where interactions with our devices were more direct and intuitive. This vision was rooted in Apple's tradition of using new technology to solve old interaction problems, a philosophy that dated back to the Mac and the mouse​​.
 
@@ -63,15 +66,16 @@ Chaudhri's departure, under these circumstances, became a symbolic and literal r
 
 This event, therefore, is not just about the end of a career chapter for Chaudhri at Apple, but also about the broader narrative of transformation and adaptation within one of the most influential tech companies in the world.
 
+
 ## Building the beyond
 But every end has a new beginning. Chaudhri's post-Apple life saw him starting 'Humane' with his wife, Bethany Bongiorno. It's not just a new company; it's a statement about where he thinks technology should head.
+
+
 
 In wrapping up, Imran Chaudhri's story is more than a tech tale. It's about vision, impact, and the sometimes harsh realities of the tech world. His influence on Apple and the tech industry is undeniable, and his philosophy continues to challenge how we think about technology.
 
 
-
-**Citations**
-
+Citations
 
 - [Creative Selection - Ken Kocienda](file-Wu3BeXcVjCIlqufaiBWXXRnq)
 
