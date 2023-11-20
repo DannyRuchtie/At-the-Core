@@ -39,3 +39,14 @@ a {
     color: var(--text-color);
   }
 }
+
+p:first-child {
+  font-weight: 700;
+}
+
+ul,
+li {
+  margin: 0 0.5rem;
+  padding: 0;
+  font-weight: 400;
+}
